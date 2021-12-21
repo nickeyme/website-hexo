@@ -45,7 +45,6 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 
-![upload successful](/images/pasted-0.png)
-
-![upload successful](/images/pasted-1.png)
-![upload successful](/images/pasted-2.png)
+![](/images/pasted-0.png)
+![w200](/images/pasted-1.png#pic_center)
+[![w300](/images/pasted-2.png "desc")](https://markdown.com.cn)
