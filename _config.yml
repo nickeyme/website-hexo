@@ -113,3 +113,35 @@ admin:
   password_hash: $2a$10$pxBUj8HJhDfk9gTS.fT9e.XexGL21MwVxtvdYJrxT1PBWOBB82Ihu
   secret: secret
   deployCommand: .\admin_script\hexo-d.bat
+
+douban:
+  user: 46707086
+  builtin: false
+  #book:
+  #  title: 'This is my book title'
+  #  quote: 'This is my book quote'
+  #  meta: true
+  #  comments: true
+  #  top_img: https://cccccc.png
+  #  aside: true
+  #  path: books
+  #  limit:
+  movie:
+    title: '影单'
+    #quote: 'This is my movie quote'
+    meta: true
+    comments: true
+    #top_img: https://cccccc.png
+    aside: false
+    path: movies
+    limit:
+  #game:
+  #  title: 'This is my game title'
+  #  quote: 'This is my game quote'
+  #  meta: true
+  #  comments: true
+  #  top_img: https://cccccc.png
+  #  aside: true
+  #  path: games
+  #  limit:
+  timeout: 10000 
